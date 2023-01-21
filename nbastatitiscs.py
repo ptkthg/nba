@@ -17,7 +17,7 @@ print("\nOs cinco jogadores mais vitoriosos na NBA são:")
 for player in top_players:
     print(player)
 
-recent_champions = [     recent_champions = [
+recent_champions = recent_champions = [
     {"team": "Los Angeles Lakers", "year": 2020, "mvp": "LeBron James", "points": 25.4, "rebounds": 7.9, "assists": 10.6},
     {"team": "Toronto Raptors", "year": 2019, "mvp": "Kawhi Leonard", "points": 27.0, "rebounds": 7.3, "assists": 2.2},
     {"team": "Golden State Warriors", "year": 2018, "mvp": "Kevin Durant", "points": 26.4, "rebounds": 6.8, "assists": 5.4},
